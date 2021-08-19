@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_micro_disconect</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon_micro_disconect" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6.84812187,2 L4.86205227,4 L4,4 L4,4.86809876 L2,6.88212687 L2,2 L6.84812187,2 Z M10,5.11095194 L10,10 L5.14500514,10 L7.13107474,8 L8,8 L8,7.12498005 L10,5.11095194 Z" id="Combined-Shape" fill="#ED6B75" fill-rule="nonzero"></path>
+        <polygon id="х" fill="#ED6B75" transform="translate(5.994936, 6.005064) rotate(-360.000000) translate(-5.994936, -6.005064) " points="10.575658 2.83773263 2.82760391 10.5857864 1.41421356 9.1723958 9.16226768 1.42434199"></polygon>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2px" height="12px" viewBox="0 0 2 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>dots_black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="dots_black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0,0 L2,0 L2,2 L0,2 L0,0 Z M0,5 L2,5 L2,7 L0,7 L0,5 Z M0,10 L2,10 L2,12 L0,12 L0,10 Z" id="Combined-Shape" fill="#6D7B8C"></path>
+    </g>
+</svg>

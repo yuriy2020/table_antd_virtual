@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Редактировать</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="button_edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="button" fill="#00A9FD" points="0 0 40 0 40 40 0 40"></polygon>
+        <path d="M19.0969482,32.7026367 L24,27.3548587 L24,11 C24,9.8954305 23.1045695,9 22,9 L16,9 C14.8954305,9 14,9.8954305 14,11 L14,27.3358554 L19.0969482,32.7026367 Z M16,7 L22,7 C24.209139,7 26,8.790861 26,11 L26,28 L19.1259766,35.5463867 L12,28 L12,11 C12,8.790861 13.790861,7 16,7 Z M20,17 L20,27 L18,27 L18,17 L14,17 L14,15 L22,15 L22,17 L20,17 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero" transform="translate(19.000000, 21.273193) rotate(-315.000000) translate(-19.000000, -21.273193) "></path>
+    </g>
+</svg>

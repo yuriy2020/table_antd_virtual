@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>button_create</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 40 0 40 40 0 40"></polygon>
+    </defs>
+    <g id="button_create" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="button">
+            <use fill="#32C5D2" xlink:href="#path-1"></use>
+            <use fill-opacity="0.1" fill="#000000" xlink:href="#path-1"></use>
+        </g>
+        <g id="plus_white" transform="translate(10.000000, 10.000000)" fill="#FFFFFF">
+            <polygon id="+" points="11.5270541 8.49528302 20 8.49528302 20 11.0556604 11.5270541 11.0556604 11.5270541 20 8.50701403 20 8.50701403 11.0556604 0 11.0556604 0 8.49528302 8.50701403 8.49528302 8.50701403 0 11.5270541 0"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>status_close</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="status_close" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="х" fill="#ED6B75" transform="translate(8.950763, 9.050763) rotate(-360.000000) translate(-8.950763, -9.050763) " points="12.1253069 4.69999981 13.3015259 5.87621884 10.1115387 9.05691725 13.2784532 12.2324225 12.1253071 13.4015255 8.9583926 10.2260203 5.77621893 13.4015258 4.5999999 12.2253068 7.78217357 9.04980124 4.5999999 5.8762188 5.76026197 4.71423127 8.93531967 7.88069822"></polygon>
+        <path d="M0.9,2.59346034 L0.9,15.4058427 C3.63349569,16.5366547 6.35639172,17.1 9.07397461,17.1 C11.7860913,17.1 14.4593277,16.5389525 17.1,15.4132774 L17.1,2.59171634 C14.3980968,1.46249026 11.7057645,0.9 9.01757812,0.9 C6.32810994,0.9 3.62397483,1.46303331 0.9,2.59346038 Z" id="Rectangle" stroke="#ED6B75" stroke-width="1.8"></path>
+    </g>
+</svg>

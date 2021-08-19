@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>button_check</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="button_check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="button" fill="#32C5D2" points="0 0 40 0 40 40 0 40"></polygon>
+        <polyline id="Stroke-3" stroke="#FFFFFF" stroke-width="2.79999995" points="31 13 17.9636253 25.8608474 10 17.8972221"></polyline>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="add_delete" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M9.20447638,10.9543981 L2.8161535,10.9543981 C1.81363677,10.9543981 1,10.1407614 1,9.13824463 L1,6 L11.0206299,6.04754424 L11.0206299,9.13824463 C11.0206299,10.1407614 10.2069931,10.9543981 9.20447638,10.9543981 Z" id="Stroke-1" stroke="#ED6B75" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M8,8 L8,6" id="Stroke-3-Copy-4" stroke="#ED6B75" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"></path>
+        <path d="M4,8 L4,6" id="Stroke-3-Copy" stroke="#ED6B75" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"></path>
+        <path d="M1,3 L10.9974365,3" id="Stroke-3-Copy-2" stroke="#ED6B75" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"></path>
+        <path d="M5,1 L7.15388115,1" id="Stroke-3-Copy-3" stroke="#ED6B75" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"></path>
+    </g>
+</svg>

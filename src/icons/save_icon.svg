@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Сохранить</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="save_icon" stroke="inherit" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20.5555556,23 L3.44444444,23 C2.09511111,23 1,21.9048889 1,20.5555556 L1,3.44444444 C1,2.09388889 2.09511111,1 3.44444444,1 L16.8888889,1 L23,7.11111111 L23,20.5555556 C23,21.9048889 21.9048889,23 20.5555556,23 Z" id="Stroke-1" stroke-width="2"></path>
+        <polyline id="Stroke-3" stroke-width="2" points="18 23 18 13 6 13 6 23"></polyline>
+        <polyline id="Stroke-5" stroke-width="2" points="6 1 6 7 16 7"></polyline>
+    </g>
+</svg>

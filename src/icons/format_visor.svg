@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>format_visor</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="format_visor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15,16 L15,4.81972392 L12.2219248,2 L3,2 L3,16 L15,16 Z M17,18 L1,18 L1,0 L13.059082,0 L17,4 L17,18 Z" id="Stroke-1" fill="#32C5D2" fill-rule="nonzero"></path>
+        <path d="M13.5237811,6 L12.2518304,6 L12.09827,6 L12.0661912,6.15033353 L10.9931667,11.1872661 C7.43527306,9.77333369 5.92776181,6.15526872 5.91276642,6.11825479 L5.86455339,6 L5.73680785,6 L4.26023646,6 L4,6 L4.07953251,6.24789848 C4.09547698,6.29763002 5.73946526,11.2569282 10.851185,12.9899398 L10.8807961,13 L10.9121156,13 L12.1275015,13 L12.2814415,13 L12.3131406,12.8492868 L13.7094203,6.22891697 L13.7578231,6 L13.5237811,6 Z" id="green" fill="#32C5D2"></path>
+    </g>
+</svg>

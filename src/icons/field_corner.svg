@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="8px" viewBox="0 0 8 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>field_corner</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="field_corner" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Rectangle" fill="#BAC3D0" points="4.50692749 8.01324463 8 4.51171875 7.99304199 6.00186157 5.98901367 7.99707031"></polygon>
+        <polygon id="Rectangle" fill="#BAC3D0" points="0.50692749 8.01324463 7.98999023 0.49041748 7.98303223 1.9805603 1.98901367 7.99707031"></polygon>
+    </g>
+</svg>

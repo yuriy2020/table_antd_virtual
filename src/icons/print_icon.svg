@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>print_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="print_icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Stroke-1" stroke="#6AAEFD" stroke-width="1.8" points="4 17.0576172 14 17.0576172 14 12 4 12"></polygon>
+        <path d="M1,13.758 L1,8 C1,8 4.97119141,6.97216797 9,6.97216797 C13.0288086,6.97216797 17,8 17,8 L17,13.758" id="Stroke-3" stroke="#6AAEFD" stroke-width="1.8"></path>
+        <path d="M4,5.52038574 L4.00000025,2 C4.00000025,2 6.66306952,1 9.11499023,1 C11.5669109,1 14,2 14,2 L13.9999997,5.52038574" id="Stroke-4" stroke="#6AAEFD" stroke-width="1.8"></path>
+    </g>
+</svg>

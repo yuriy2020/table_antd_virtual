@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0 !important;
+}
+
+#webpack-hot-middleware-clientOverlay {
+  display: none !important;
+}
+
+@font-face {
+  font-family: 'Play';
+  font-style: normal;
+  font-weight: 400;
+  /*src: url('../src/fonts/Ex/Play-Regular.ttf');*/
+  src: url('../src/fonts/Exo/Exo2-Medium.ttf');
+  /*src: local('Play'), local('Play'),
+         url('../src/fonts/Play/Play-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+  src: local('Play'), local('Play'), url('../src/fonts/Exo/Exo2-Medium.ttf') format('truetype');
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0 !important;
+  overflow: hidden;
+  font-family: 'Play';
+}
+
+input,
+textarea,
+select,
+button {
+  font-family: 'Play';
+}
+
+s {
+  left: 0px !important;
+}
+
+* {
+  outline: none;
+}
+
+.slink {
+  color: #337ab7;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+.slink:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>button_save</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 40 0 40 40 0 40"></polygon>
+    </defs>
+    <g id="button_save" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="button">
+            <use fill="#32C5D2" xlink:href="#path-1"></use>
+            <use fill-opacity="0.1" fill="#000000" xlink:href="#path-1"></use>
+        </g>
+        <path d="M28.5555556,31 L11.4444444,31 C10.0951111,31 9,29.9048889 9,28.5555556 L9,11.4444444 C9,10.0938889 10.0951111,9 11.4444444,9 L24.8888889,9 L31,15.1111111 L31,28.5555556 C31,29.9048889 29.9048889,31 28.5555556,31 Z" id="Stroke-1" stroke="#FFFFFF" stroke-width="2"></path>
+        <polyline id="Stroke-3" stroke="#FFFFFF" stroke-width="2" points="26 31 26 21 14 21 14 31"></polyline>
+        <polyline id="Stroke-5" stroke="#FFFFFF" stroke-width="2" points="14 9 14 15 24 15"></polyline>
+    </g>
+</svg>
