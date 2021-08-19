@@ -18,7 +18,8 @@ import Uploader from './common/Uploader'
 import { BASE_URL } from '../const/api'
 import HttpUtil from '../util/HttpUtil'
 import Button from './common/Button'
-import { rowHeight } from './Grid'
+
+import { rowHeight } from './_Grid1'
 import { ROW_PER_PAGE } from '../store/Grid'
 import { menu } from '../const/common'
 

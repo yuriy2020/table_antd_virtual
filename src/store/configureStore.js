@@ -1,14 +1,9 @@
 ﻿import { applyMiddleware, combineReducers, compose, createStore } from 'redux'
 import thunk from 'redux-thunk'
 import * as Grid from './Grid'
-import * as BottomPanel from './BottomPanel'
 import * as TopPanel from './TopPanel'
-import * as RightPanel from './RightPanel'
 import * as Incidents from './Incidents'
-import * as Kanban from './Kanban'
-import * as WatchForm from './WatchForm'
 //import { routerReducer, routerMiddleware } from 'react-router-redux';
-import * as Passport from './Passport'
 
 export default function configureStore(/*history, */ initialState) {
   const reducers = {

@@ -12,8 +12,9 @@ import classNames from 'classnames'
 import { fetched } from '../util/fetched'
 import { dataApi } from '../const/api'
 import { HIGHLIGHT_COLOR } from '../const/cssConst'
-let RATIO = 50
-
+import { RIGHT_PANEL_BORDER_WIDTH } from '../const/cssConst'
+export const rowHeight = 30
+export const rightPading = RIGHT_PANEL_BORDER_WIDTH
 const useStyles = createUseStyles({})
 
 function _Grid({ onRowDoubleClick, scroll }) {
@@ -58,6 +59,7 @@ function _Grid({ onRowDoubleClick, scroll }) {
   }
 
   const getData = async (startIndex = 0, stopIndex) => {
+    
     console.log('>>>>', startIndex, stopIndex)
     try {
       let take = 20
@@ -66,7 +68,7 @@ function _Grid({ onRowDoubleClick, scroll }) {
       const res = await response.json()
       const prepData = preparingData(res.value)
       console.log('startIndex', startIndex, skip)
-      setData([...data, ...prepData])
+      setData([...data, ...prepData]) 
       setTotalCount(res.total)
       setFetching(false)
     } catch (e) {

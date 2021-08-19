@@ -1,7 +1,7 @@
 import HttpUtil from '../util/HttpUtil'
 import { BASE_URL } from '../const/api'
 import { changeHeightType } from './BottomPanel'
-import { rightPading } from '../components/Grid'
+import { rightPading } from '../components/_Grid1'
 import { showToastType } from './Incidents'
 import { actionCreators as RightPanel } from './RightPanel'
 
